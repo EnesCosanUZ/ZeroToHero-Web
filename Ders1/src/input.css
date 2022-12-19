@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p {
+    min-width: 4rem;
+    min-height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 1.5rem;
+}
