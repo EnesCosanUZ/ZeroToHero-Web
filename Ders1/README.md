@@ -44,3 +44,7 @@ Sıra veya sütun olarak şemayı belirlememizi sağlar
 > Gap
 
 Elementler arasındaki boşluğu tanımlar. Birbirinden uzaklaştırmak için kullanılır.
+
+## License
+
+MIT
